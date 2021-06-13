@@ -14,7 +14,7 @@ int main(){
 	int num2 = 20;		
 
 
-	cout<<sum(num1, num2);
+	cout<<"Sum of the two numbers is: "<<(num1, num2);
 
 	return 0;
 }
