@@ -3,7 +3,7 @@ using namespace std;
 
 float division(float num1, float num2){
 
-	float div = (num1 + num2);
+	float div = (num1 / num2);
 
 	return div; 	
 }
